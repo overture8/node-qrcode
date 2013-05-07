@@ -14,7 +14,6 @@
 	"qrcode":"./bin/qrcode"
  }
  ,"dependencies": {
-   "canvas": "~1.0.0",
    "colors":"*"
  }
  ,"devDependencies":{
